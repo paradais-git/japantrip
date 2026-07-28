@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables — guarda aquí API keys futuras
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+*.sw?
+
+# Google Takeout — datos privados, NO subir al repo
+Takeout/
+scripts/preview-*.json
+scripts/cronologia-extracted.json
+scripts/timeline-extracted.json

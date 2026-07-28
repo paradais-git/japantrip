@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vuelo-bcn-tokio",
+    "tipo": "Avión",
+    "linea": "Finnair AY67",
+    "origen": "Barcelona (BCN)",
+    "destino": "Tokio Haneda (HND)",
+    "fecha": "2024-03-08",
+    "duracion": "14h 30m",
+    "notas": "Escala en Helsinki 2h. Asiento 32A ventana. Salida 07:15."
+  },
+  {
+    "id": "narita-express",
+    "tipo": "Tren",
+    "linea": "Narita Express (N'EX)",
+    "origen": "Tokio Haneda (HND)",
+    "destino": "Shinjuku",
+    "fecha": "2024-03-08",
+    "duracion": "1h 20m",
+    "notas": "Comprar billete en la máquina del aeropuerto. Hay que reservar asiento."
+  },
+  {
+    "id": "metro-tokio-asakusa",
+    "tipo": "Metro",
+    "linea": "Ginza Line (G)",
+    "origen": "Shibuya",
+    "destino": "Asakusa",
+    "fecha": "2024-03-10",
+    "duracion": "40m",
+    "notas": "El JR Pass no cubre el metro. Usar tarjeta Suica o Pasmo (recargable, funciona en todo)."
+  },
+  {
+    "id": "shinkansen-tokio-kioto",
+    "tipo": "Shinkansen",
+    "linea": "Tokaido — Nozomi 23",
+    "origen": "Tokio (Shinagawa)",
+    "destino": "Kioto",
+    "fecha": "2024-03-13",
+    "duracion": "2h 15m",
+    "notas": "Asiento reservado coche 3, fila 15A. Sentarse en el lado derecho para ver el Monte Fuji (aprox. km 150)."
+  },
+  {
+    "id": "shinkansen-kioto-osaka",
+    "tipo": "Shinkansen",
+    "linea": "Tokaido — Kodama 659",
+    "origen": "Kioto",
+    "destino": "Osaka (Shin-Osaka)",
+    "fecha": "2024-03-17",
+    "duracion": "16m",
+    "notas": "El trayecto más corto en Shinkansen del viaje. Cubierto con JR Pass."
+  },
+  {
+    "id": "vuelo-osaka-bcn",
+    "tipo": "Avión",
+    "linea": "Air France AF291",
+    "origen": "Osaka Kansai (KIX)",
+    "destino": "Barcelona (BCN)",
+    "fecha": "2024-03-20",
+    "duracion": "15h 10m",
+    "notas": "Escala en París CDG 3h. Salida 10:05. Aeropuerto Kansai: llegar 3h antes."
+  },
+  {
+    "id": "vehículo-2026-06-28-09:07-fff9",
+    "tipo": "Vehículo",
+    "linea": "",
+    "origen": "Zona Karasuma (35.00418, 135.75165)",
+    "destino": "Zona Kinkaku-ji (35.0404, 135.73441)",
+    "fecha": "2026-06-28",
+    "duracion": "26m",
+    "notas": "5.66 km. Revisar origen/destino exactos."
+  },
+  {
+    "id": "fuji-excursion-express-2026-06-25",
+    "tipo": "Tren",
+    "linea": "Fuji Excursion Express",
+    "origen": "Shinjuku",
+    "destino": "Kawaguchiko",
+    "fecha": "2026-06-25",
+    "duracion": "1h 54m",
+    "notas": "Tren directo Keio/JR East. 96,6 km. Sale de Shinjuku andén Keio. No cubierto por JR Pass básico."
+  },
+  {
+    "id": "autocar-kawaguchiko-mishima-2026-06-26",
+    "tipo": "Bus",
+    "linea": "Fujikyu Highway Bus",
+    "origen": "Kawaguchiko",
+    "destino": "Mishima",
+    "fecha": "2026-06-26",
+    "duracion": "1h 18m",
+    "notas": "64,8 km. Autocar por la autopista Este de Fuji con vistas al Fuji-san."
+  },
+  {
+    "id": "shinkansen-mishima-kyoto-2026-06-26",
+    "tipo": "Shinkansen",
+    "linea": "Tokaido — Hikari",
+    "origen": "Mishima",
+    "destino": "Kioto",
+    "fecha": "2026-06-26",
+    "duracion": "2h 40m",
+    "notas": "Tokaido Shinkansen desde Mishima. ~250 km. Cubierto con JR Pass. Hikari para en Mishima (el Nozomi no para)."
+  },
+  {
+    "id": "shinkansen-hiroshima-osaka-2026-07-02",
+    "tipo": "Shinkansen",
+    "linea": "Sanyo — Nozomi",
+    "origen": "Hiroshima",
+    "destino": "Osaka (Shin-Osaka)",
+    "fecha": "2026-07-02",
+    "duracion": "1h 24m",
+    "notas": "291 km. Nozomi cubierto con JR Pass. El trayecto más rápido entre Hiroshima y Osaka."
+  },
+  {
+    "id": "shinkansen-kyoto-hiroshima-2026-07-01",
+    "tipo": "Shinkansen",
+    "linea": "Sanyo — Nozomi",
+    "origen": "Kioto",
+    "destino": "Hiroshima",
+    "fecha": "2026-07-01",
+    "duracion": "1h 25m",
+    "notas": "301 km. Nozomi en el Tokaido-Sanyo Shinkansen. Cubierto con JR Pass."
+  }
+]
