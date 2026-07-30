@@ -1,1104 +1,274 @@
 [
   {
-    "fecha": "2026-06-18",
-    "dia": 1,
-    "ciudad": "Barcelona",
-    "titulo": "Vuelo Barcelona → Tokio (escala Shanghai)",
-    "eventos": [
-      {
-        "hora": "16:31",
-        "tipo": "transporte",
-        "descripcion": "Metro · 6.8 km · 26 min"
-      },
-      {
-        "hora": "17:09",
-        "tipo": "transporte",
-        "descripcion": "Bus · 15.3 km · 16 min"
-      },
-      {
-        "hora": "18:34",
-        "tipo": "lugar",
-        "ref": "chijwvcv-cb81",
-        "descripcion": "Aeropuerto Pudong (escala Shanghai)"
-      },
-      {
-        "hora": "19:48",
-        "tipo": "transporte",
-        "descripcion": "Avión · 9867.0 km · 765 min"
-      }
-    ]
-  },
-  {
     "fecha": "2026-06-19",
-    "dia": 2,
+    "dia": 1,
     "ciudad": "Tokio",
     "titulo": "Llegada a Tokio · Shinjuku",
     "eventos": [
-      {
-        "hora": "14:27",
-        "tipo": "transporte",
-        "descripcion": "Avión · 1738.5 km · 233 min"
-      },
-      {
-        "hora": "18:21",
-        "tipo": "lugar",
-        "ref": "羽田空港-chij45ix-d666",
-        "descripcion": "Aeropuerto Haneda"
-      },
-      {
-        "hora": "19:12",
-        "tipo": "transporte",
-        "descripcion": "Tren · 16.2 km · 21 min"
-      },
-      {
-        "hora": "19:41",
-        "tipo": "transporte",
-        "descripcion": "Tren · 14.2 km · 26 min"
-      },
-      {
-        "hora": "20:08",
-        "tipo": "lugar",
-        "ref": "estacion-shinjuku-chijh7qx-9adf",
-        "descripcion": "Estación Shinjuku"
-      },
-      {
-        "hora": "20:30",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Check-in Shinjuku Granbell Hotel"
-      },
-      {
-        "hora": "20:43",
-        "tipo": "transporte",
-        "descripcion": "Bus · 0.1 km · 11 min"
-      },
-      {
-        "hora": "20:55",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 0.7 km · 3 min"
-      },
-      {
-        "hora": "20:58",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      },
-      {
-        "hora": "21:30",
-        "tipo": "restaurante",
-        "ref": "tsuribune-chaya-zauoshtsurifu-sinzhuku-dian-e42f",
-        "descripcion": "釣船茶屋 ざうお (mariscos)"
-      },
-      {
-        "hora": "22:45",
-        "tipo": "lugar",
-        "ref": "golden-gai-shinjuku-chijaxke-3050",
-        "descripcion": "Golden Gai Shinjuku"
-      }
+      { "hora": "05:34", "tipo": "transporte", "descripcion": "Avión · Llegada a Shanghai Pudong (escala) · 9.867 km · 12h 46min" },
+      { "hora": "11:27", "tipo": "transporte", "descripcion": "Avión · Shanghai → Tokio Haneda · 1.738 km · 3h 54min" },
+      { "hora": "16:21", "tipo": "lugar", "descripcion": "Aeropuerto Internacional de Tokio (Haneda)" },
+      { "hora": "17:12", "tipo": "transporte", "descripcion": "Tren · 16 km · 21 min" },
+      { "hora": "17:41", "tipo": "transporte", "descripcion": "Tren · 14 km · 26 min" },
+      { "hora": "18:08", "tipo": "lugar", "descripcion": "Estación de Shinjuku" },
+      { "hora": "18:58", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Check-in Shinjuku Granbell Hotel" },
+      { "hora": "20:45", "tipo": "restaurante", "ref": "ramen-nagi-c20a", "descripcion": "Ramen Nagi (cena)" },
+      { "hora": "22:17", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-20",
-    "dia": 3,
+    "dia": 2,
     "ciudad": "Tokio",
-    "titulo": "Tokio · Omotesando y Shibuya",
+    "titulo": "Tokio · Shinjuku y Shibuya",
     "eventos": [
-      {
-        "hora": "00:27",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      },
-      {
-        "hora": "13:12",
-        "tipo": "lugar",
-        "ref": "shinjuku-southern-terrace-chij9yz3-cbb6",
-        "descripcion": "Shinjuku Southern Terrace"
-      },
-      {
-        "hora": "13:30",
-        "tipo": "restaurante",
-        "ref": "ramen-nagi-c8f1",
-        "descripcion": "Ramen Nagi"
-      },
-      {
-        "hora": "15:12",
-        "tipo": "transporte",
-        "descripcion": "Bus · 3.1 km · 23 min"
-      },
-      {
-        "hora": "17:01",
-        "tipo": "lugar",
-        "ref": "calle-meijiomotesando-chijm9jh-bd61",
-        "descripcion": "Calle Meiji/Omotesando"
-      },
-      {
-        "hora": "19:00",
-        "tipo": "restaurante",
-        "ref": "akatsuki---a-specialty-restaur-5a50",
-        "descripcion": "Akatsuki (atún rojo)"
-      },
-      {
-        "hora": "20:23",
-        "tipo": "transporte",
-        "descripcion": "Bus · 1.7 km · 10 min"
-      },
-      {
-        "hora": "21:53",
-        "tipo": "transporte",
-        "descripcion": "Tren · 2.0 km · 7 min"
-      },
-      {
-        "hora": "22:00",
-        "tipo": "transporte",
-        "descripcion": "Metro · 3.6 km · 6 min"
-      },
-      {
-        "hora": "22:12",
-        "tipo": "lugar",
-        "ref": "shinjuku-sanchome-chij9skp-9a9f",
-        "descripcion": "Shinjuku-Sanchome"
-      }
+      { "hora": "10:22", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Salida del hotel" },
+      { "hora": "11:12", "tipo": "restaurante", "descripcion": "MATCHA CAFE | MAME TO CHA Shinjuku" },
+      { "hora": "11:58", "tipo": "lugar", "descripcion": "eggslut Shinjuku Southern Terrace" },
+      { "hora": "13:12", "tipo": "transporte", "descripcion": "Autobús · 3,1 km · 24 min" },
+      { "hora": "15:01", "tipo": "lugar", "descripcion": "Shibuya TOEI Plaza / Bic Camera Shibuya East" },
+      { "hora": "18:23", "tipo": "transporte", "descripcion": "Autobús · 1,7 km · 10 min" },
+      { "hora": "19:53", "tipo": "transporte", "descripcion": "Tren · 2 km · 7 min" },
+      { "hora": "20:00", "tipo": "transporte", "descripcion": "Metro · 3,6 km · 7 min" },
+      { "hora": "20:12", "tipo": "restaurante", "ref": "gyukatsu-motomura-shinjuku-south-exit--9467", "descripcion": "Gyukatsu Motomura Shinjuku South Exit" },
+      { "hora": "22:27", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-21",
-    "dia": 4,
+    "dia": 3,
     "ciudad": "Tokio",
     "titulo": "Tokio · Kamakura y Yokohama",
     "eventos": [
-      {
-        "hora": "00:17",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      },
-      {
-        "hora": "13:00",
-        "tipo": "restaurante",
-        "ref": "gyukatsu-motomura-shinjuku-so-88b5",
-        "descripcion": "Gyukatsu Motomura"
-      },
-      {
-        "hora": "13:44",
-        "tipo": "transporte",
-        "descripcion": "Tren · 54.2 km · 59 min"
-      },
-      {
-        "hora": "14:44",
-        "tipo": "lugar",
-        "ref": "kamakura-centro-chij33np-02dd",
-        "descripcion": "Kamakura (Komachi-dori)"
-      },
-      {
-        "hora": "15:00",
-        "tipo": "restaurante",
-        "descripcion": "Restaurante en Kamakura"
-      },
-      {
-        "hora": "15:02",
-        "tipo": "transporte",
-        "descripcion": "Tren · 1.6 km · 6 min"
-      },
-      {
-        "hora": "17:21",
-        "tipo": "lugar",
-        "ref": "hase-kamakura-chijx8lh-3c25",
-        "descripcion": "Gran Buda de Kamakura (Daibutsu)"
-      },
-      {
-        "hora": "18:23",
-        "tipo": "transporte",
-        "descripcion": "Tren · 1.6 km · 6 min"
-      },
-      {
-        "hora": "18:38",
-        "tipo": "transporte",
-        "descripcion": "Tren · 21.3 km · 23 min"
-      },
-      {
-        "hora": "19:02",
-        "tipo": "lugar",
-        "ref": "yokohama-nishi-chij8dlp-16cf",
-        "descripcion": "Yokohama Nishi"
-      },
-      {
-        "hora": "19:15",
-        "tipo": "transporte",
-        "descripcion": "Tren · 1.4 km · 3 min"
-      },
-      {
-        "hora": "21:27",
-        "tipo": "transporte",
-        "descripcion": "Tren · 1.3 km · 2 min"
-      },
-      {
-        "hora": "21:37",
-        "tipo": "transporte",
-        "descripcion": "Tren · 31.5 km · 32 min"
-      },
-      {
-        "hora": "22:26",
-        "tipo": "lugar",
-        "ref": "calle-one-day-chij85hb-e0cb",
-        "descripcion": "Yokohama centro"
-      }
+      { "hora": "09:45", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Salida del hotel" },
+      { "hora": "11:44", "tipo": "transporte", "descripcion": "Tren · 54 km · 1h" },
+      { "hora": "12:44", "tipo": "lugar", "descripcion": "Kamakura Station" },
+      { "hora": "13:20", "tipo": "lugar", "descripcion": "Templo Kotoku-in (Gran Buda de Kamakura)" },
+      { "hora": "15:21", "tipo": "restaurante", "ref": "akatsuki-a-specialty-restaurant-for-ag-7e5d", "descripcion": "Akatsuki (atún rojo curado)" },
+      { "hora": "16:38", "tipo": "transporte", "descripcion": "Tren · Kamakura → Yokohama · 21 km · 23 min" },
+      { "hora": "17:30", "tipo": "lugar", "descripcion": "Yokohama Cosmo World" },
+      { "hora": "19:37", "tipo": "transporte", "descripcion": "Tren · Yokohama → Shinjuku · 31 km · 32 min" },
+      { "hora": "20:15", "tipo": "restaurante", "ref": "釣船茶屋-ざうお-新宿店-3406", "descripcion": "釣船茶屋 ざうお 新宿店 (Zauo Fishing Restaurant)" },
+      { "hora": "22:17", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-22",
-    "dia": 5,
+    "dia": 4,
     "ciudad": "Tokio",
-    "titulo": "Tokio · Roppongi y Nakameguro",
+    "titulo": "Tokio · Azabudai Hills, Torre de Tokio e Ikebukuro",
     "eventos": [
-      {
-        "hora": "11:30",
-        "tipo": "transporte",
-        "descripcion": "Metro · 6.5 km · 17 min"
-      },
-      {
-        "hora": "12:00",
-        "tipo": "lugar",
-        "descripcion": "Tokyo Tower (mirador 250m)"
-      },
-      {
-        "hora": "12:30",
-        "tipo": "restaurante",
-        "ref": "eggslut-shinjuku-southern-ter-c49c",
-        "descripcion": "eggslut (brunch)"
-      },
-      {
-        "hora": "15:00",
-        "tipo": "lugar",
-        "descripcion": "teamLab Borderless (Azabudai Hills)"
-      },
-      {
-        "hora": "18:26",
-        "tipo": "transporte",
-        "descripcion": "Metro · 4.8 km · 18 min"
-      },
-      {
-        "hora": "18:50",
-        "tipo": "lugar",
-        "ref": "nakameguro-chijw9fe-c232",
-        "descripcion": "Nakameguro"
-      },
-      {
-        "hora": "19:33",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 9.4 km · 21 min"
-      },
-      {
-        "hora": "21:54",
-        "tipo": "lugar",
-        "ref": "acceso-al-sotano-3-del-centro-cultural-be52",
-        "descripcion": "Sunshine City (Ikebukuro)"
-      },
-      {
-        "hora": "23:39",
-        "tipo": "transporte",
-        "descripcion": "Bus · 3.8 km · 14 min"
-      },
-      {
-        "hora": "23:58",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      }
+      { "hora": "09:17", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Salida del hotel" },
+      { "hora": "09:52", "tipo": "lugar", "descripcion": "Azabudai Hills · teamLab Borderless" },
+      { "hora": "16:05", "tipo": "lugar", "descripcion": "Torre de Tokio" },
+      { "hora": "16:50", "tipo": "lugar", "descripcion": "Estación de Naka-meguro" },
+      { "hora": "19:54", "tipo": "lugar", "descripcion": "Sunshine 60 Observatory (TENBOU)" },
+      { "hora": "21:00", "tipo": "restaurante", "descripcion": "Kanda Tamagoken Ikebukuro" },
+      { "hora": "21:58", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-23",
-    "dia": 6,
+    "dia": 5,
     "ciudad": "Tokio",
-    "titulo": "Tokio · Asakusa y Ueno",
+    "titulo": "Tokio · Ueno y Tokyo Skytree",
     "eventos": [
-      {
-        "hora": "00:03",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      },
-      {
-        "hora": "12:36",
-        "tipo": "lugar",
-        "ref": "新宿五丁目-chij-j-95e8",
-        "descripcion": "Shinjuku-Gochome"
-      },
-      {
-        "hora": "15:11",
-        "tipo": "transporte",
-        "descripcion": "Tren · 16.3 km · 24 min"
-      },
-      {
-        "hora": "15:35",
-        "tipo": "lugar",
-        "ref": "uenoasakusa-chijcwbt-4e36",
-        "descripcion": "Ueno/Asakusa"
-      },
-      {
-        "hora": "15:35",
-        "tipo": "lugar",
-        "ref": "puente-panda-asakusa-chijfalj-6981",
-        "descripcion": "Puente Panda - Asakusa"
-      },
-      {
-        "hora": "18:12",
-        "tipo": "transporte",
-        "descripcion": "Bus · 1.7 km · 9 min"
-      },
-      {
-        "hora": "21:49",
-        "tipo": "lugar",
-        "ref": "asakusa-sky-tree-zona-chij35ov-14ab",
-        "descripcion": "Asakusa Sky Tree zona"
-      },
-      {
-        "hora": "23:10",
-        "tipo": "transporte",
-        "descripcion": "Tren · 9.8 km · 48 min"
-      }
+      { "hora": "10:26", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Salida del hotel" },
+      { "hora": "13:35", "tipo": "lugar", "descripcion": "Estación Ueno · ecute Ueno" },
+      { "hora": "16:12", "tipo": "transporte", "descripcion": "Autobús · 1,7 km · 9 min" },
+      { "hora": "17:52", "tipo": "lugar", "descripcion": "Tokyo Skytree Town · Pokémon Center Skytree" },
+      { "hora": "21:10", "tipo": "transporte", "descripcion": "Tren · 9,8 km · 49 min" },
+      { "hora": "22:03", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-24",
-    "dia": 7,
+    "dia": 6,
     "ciudad": "Tokio",
-    "titulo": "Tokio · Ginza y Shibuya",
+    "titulo": "Tokio · Akihabara, Ginza y Odaiba",
     "eventos": [
-      {
-        "hora": "11:46",
-        "tipo": "lugar",
-        "ref": "calle-meijiomotesando-chijaysr-7ecd",
-        "descripcion": "Calle Meiji/Omotesando"
-      },
-      {
-        "hora": "12:30",
-        "tipo": "lugar",
-        "ref": "shinjuku-sanchome-chij01rv-37cb",
-        "descripcion": "Shinjuku-Sanchome"
-      },
-      {
-        "hora": "12:43",
-        "tipo": "lugar",
-        "ref": "shinjuku-sanchome-chijgcqr-96ea",
-        "descripcion": "Shinjuku-Sanchome"
-      },
-      {
-        "hora": "13:15",
-        "tipo": "transporte",
-        "descripcion": "Metro · 5.6 km · 9 min"
-      },
-      {
-        "hora": "16:53",
-        "tipo": "transporte",
-        "descripcion": "Metro · 2.4 km · 4 min"
-      },
-      {
-        "hora": "20:32",
-        "tipo": "transporte",
-        "descripcion": "Metro · 1.4 km · 3 min"
-      },
-      {
-        "hora": "20:56",
-        "tipo": "lugar",
-        "ref": "ginza-chij-p-329d",
-        "descripcion": "Ginza"
-      },
-      {
-        "hora": "23:30",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Vuelta al hotel (Granbell)"
-      }
+      { "hora": "09:30", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Salida del hotel" },
+      { "hora": "09:46", "tipo": "restaurante", "ref": "世界の朝ごはん-taste-the-world-新宿店-afb7", "descripcion": "世界の朝ごはん TASTE THE WORLD (desayuno)" },
+      { "hora": "14:55", "tipo": "lugar", "descripcion": "Akihabara · Hareruya 2 / EDION / Super Potato / TRADER" },
+      { "hora": "16:55", "tipo": "lugar", "descripcion": "Pokémon Center Tokyo DX · Café Pokémon" },
+      { "hora": "18:56", "tipo": "lugar", "descripcion": "Ginza Komatsu · Uniqlo Ginza Flagship Store" },
+      { "hora": "21:00", "tipo": "lugar", "descripcion": "Unicorn Gundam (Odaiba)" },
+      { "hora": "23:50", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-25",
-    "dia": 8,
+    "dia": 7,
     "ciudad": "Fujikawaguchiko",
-    "titulo": "Excursión al Monte Fuji · Kawaguchiko · Ryokan",
+    "titulo": "Viaje al Monte Fuji · Kawaguchiko · Ryokan",
     "eventos": [
-      {
-        "hora": "10:00",
-        "tipo": "hotel",
-        "ref": "shinjuku-granbell-hotel-4366",
-        "descripcion": "Check-out Shinjuku Granbell Hotel"
-      },
-      {
-        "hora": "10:32",
-        "tipo": "transporte",
-        "descripcion": "Fuji Excursion Express · Shinjuku → Kawaguchiko · 96,6 km"
-      },
-      {
-        "hora": "12:27",
-        "tipo": "lugar",
-        "ref": "kawaguchiko-lago-fuji-chijv3di-318a",
-        "descripcion": "Kawaguchiko (Lago Fuji)"
-      },
-      {
-        "hora": "12:47",
-        "tipo": "lugar",
-        "ref": "aokigaharalago-fuji-chijcu0r-50bb",
-        "descripcion": "Aokigahara/Lago Fuji"
-      },
-      {
-        "hora": "16:58",
-        "tipo": "transporte",
-        "descripcion": "Bus · 9.1 km · 15 min"
-      },
-      {
-        "hora": "17:30",
-        "tipo": "hotel",
-        "ref": "kasuitei-ooya-2e96",
-        "descripcion": "Check-in Kasuitei Ooya (Ryokan)"
-      }
+      { "hora": "08:15", "tipo": "hotel", "ref": "shinjuku-granbell-hotel-4366", "descripcion": "Check-out Shinjuku Granbell Hotel" },
+      { "hora": "08:32", "tipo": "transporte", "descripcion": "Tren · Shinjuku → Kawaguchiko · 97 km · 1h 55min" },
+      { "hora": "10:27", "tipo": "lugar", "descripcion": "Kawaguchiko Station" },
+      { "hora": "10:47", "tipo": "hotel", "ref": "kasuitei-ooya-2e96", "descripcion": "Kasuitei Ooya (dejar equipaje)" },
+      { "hora": "14:11", "tipo": "lugar", "descripcion": "Lake Kawaguchiko Sightseeing Boat" },
+      { "hora": "15:14", "tipo": "hotel", "ref": "kasuitei-ooya-2e96", "descripcion": "Kasuitei Ooya (check-in / onsen)" }
     ]
   },
   {
     "fecha": "2026-06-26",
-    "dia": 9,
+    "dia": 8,
     "ciudad": "Kioto",
-    "titulo": "Viaje a Kioto · Llegada y Arashiyama",
+    "titulo": "Chureito Pagoda · Viaje a Kioto",
     "eventos": [
-      {
-        "hora": "10:30",
-        "tipo": "hotel",
-        "ref": "kasuitei-ooya-2e96",
-        "descripcion": "Check-out Kasuitei Ooya"
-      },
-      {
-        "hora": "12:33",
-        "tipo": "lugar",
-        "ref": "kawaguchiko-lago-fuji-chijv3di-318a",
-        "descripcion": "Kawaguchiko (Lago Fuji)"
-      },
-      {
-        "hora": "13:01",
-        "tipo": "transporte",
-        "descripcion": "Tren · 5.6 km · 12 min"
-      },
-      {
-        "hora": "14:20",
-        "tipo": "lugar",
-        "ref": "fujiyoshida-chijlyn-4981",
-        "descripcion": "Fujiyoshida"
-      },
-      {
-        "hora": "14:37",
-        "tipo": "transporte",
-        "descripcion": "Tren · 2.3 km · 9 min"
-      },
-      {
-        "hora": "14:46",
-        "tipo": "lugar",
-        "ref": "fujiyoshida-honmichi-chijewmd-2ded",
-        "descripcion": "Fujiyoshida - Honmichi"
-      },
-      {
-        "hora": "14:50",
-        "tipo": "transporte",
-        "descripcion": "Tren · 2.8 km · 5 min"
-      },
-      {
-        "hora": "15:06",
-        "tipo": "lugar",
-        "ref": "aokigaharalago-fuji-chijcu0r-50bb",
-        "descripcion": "Aokigahara/Lago Fuji"
-      },
-      {
-        "hora": "15:59",
-        "tipo": "transporte",
-        "descripcion": "Autocar Fujikyu · Kawaguchiko → Mishima · 64,8 km"
-      },
-      {
-        "hora": "17:18",
-        "tipo": "lugar",
-        "ref": "chijx-wu-9b05",
-        "descripcion": "Mishima (espera Shinkansen)"
-      },
-      {
-        "hora": "17:54",
-        "tipo": "transporte",
-        "descripcion": "Shinkansen Hikari · Mishima → Kioto · 2h 40m"
-      },
-      {
-        "hora": "21:11",
-        "tipo": "transporte",
-        "descripcion": "Bus · 2.7 km · 10 min"
-      },
-      {
-        "hora": "21:27",
-        "tipo": "lugar",
-        "ref": "kioto-karasuma-chiji7rv-54be",
-        "descripcion": "Kioto - Karasuma"
-      },
-      {
-        "hora": "21:30",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Check-in Agora Kyoto Shijo"
-      }
+      { "hora": "10:23", "tipo": "hotel", "ref": "kasuitei-ooya-2e96", "descripcion": "Check-out Kasuitei Ooya" },
+      { "hora": "11:01", "tipo": "transporte", "descripcion": "Tren · Kawaguchiko → Chureito · 6,8 km · 43 min" },
+      { "hora": "11:45", "tipo": "lugar", "descripcion": "Chureito Pagoda" },
+      { "hora": "13:59", "tipo": "transporte", "descripcion": "Autobús · Kawaguchiko → Mishima · 65 km · 1h 19min" },
+      { "hora": "15:54", "tipo": "transporte", "descripcion": "Shinkansen · Mishima → Kioto · 347 km · 2h 30min" },
+      { "hora": "18:25", "tipo": "lugar", "descripcion": "Estación de Kioto" },
+      { "hora": "19:27", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Check-in Agora Kyoto Shijo" }
     ]
   },
   {
     "fecha": "2026-06-27",
-    "dia": 10,
+    "dia": 9,
     "ciudad": "Kioto",
-    "titulo": "Kioto · Arashiyama y Sanjo-dori",
+    "titulo": "Kioto · Arashiyama y compras",
     "eventos": [
-      {
-        "hora": "00:51",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Vuelta al hotel (Agora Kyoto Shijo)"
-      },
-      {
-        "hora": "10:00",
-        "tipo": "restaurante",
-        "ref": "iolite-coffee-roasters-a1d9",
-        "descripcion": "IOLITE Coffee Roasters"
-      },
-      {
-        "hora": "12:17",
-        "tipo": "lugar",
-        "ref": "kioto-nishiōin-dori-chijo8ls-ae02",
-        "descripcion": "Kioto - Nishiōin-dori"
-      },
-      {
-        "hora": "13:23",
-        "tipo": "transporte",
-        "descripcion": "Tranvía · 6.8 km · 22 min"
-      },
-      {
-        "hora": "15:41",
-        "tipo": "lugar",
-        "ref": "arashiyama-sagano-chijx1ul-ed4d",
-        "descripcion": "Arashiyama - Sagano"
-      },
-      {
-        "hora": "20:33",
-        "tipo": "transporte",
-        "descripcion": "Tranvía · 3.6 km · 12 min"
-      },
-      {
-        "hora": "20:46",
-        "tipo": "lugar",
-        "ref": "oike-dori-chijftop-6f8c",
-        "descripcion": "Oike-dori"
-      },
-      {
-        "hora": "21:01",
-        "tipo": "transporte",
-        "descripcion": "Metro · 4.9 km · 9 min"
-      },
-      {
-        "hora": "21:45",
-        "tipo": "lugar",
-        "ref": "rokkaku-dori-chij4aer-47e8",
-        "descripcion": "Rokkaku-dori"
-      },
-      {
-        "hora": "23:13",
-        "tipo": "lugar",
-        "ref": "sanjo-dori-chijv-en-3b5f",
-        "descripcion": "Sanjo-dori"
-      }
+      { "hora": "10:11", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Salida del hotel" },
+      { "hora": "10:17", "tipo": "restaurante", "ref": "iolite-coffee-roasters-eb92", "descripcion": "IOLITE COFFEE ROASTERS" },
+      { "hora": "11:23", "tipo": "transporte", "descripcion": "Tranvía · 6,8 km · 23 min" },
+      { "hora": "13:08", "tipo": "lugar", "descripcion": "Bosque de Bambú de Arashiyama" },
+      { "hora": "14:03", "tipo": "lugar", "descripcion": "Adashino Nenbutsuji Temple" },
+      { "hora": "16:45", "tipo": "restaurante", "descripcion": "KYOTO COFFEE ARASHIYAMA" },
+      { "hora": "18:33", "tipo": "transporte", "descripcion": "Tranvía · 3,6 km · 13 min" },
+      { "hora": "19:01", "tipo": "transporte", "descripcion": "Metro · 4,9 km · 2 min" },
+      { "hora": "19:45", "tipo": "lugar", "descripcion": "mina Kyoto · Kyoto LOFT / UNIQLO" },
+      { "hora": "21:13", "tipo": "restaurante", "ref": "wagyu-sukiyaki-kyoto-chikarayama-sanjo-244d", "descripcion": "Wagyu Sukiyaki Kyoto Chikarayama" },
+      { "hora": "22:51", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-28",
-    "dia": 11,
+    "dia": 10,
     "ciudad": "Kioto",
-    "titulo": "Kioto · Kinkaku-ji y Ginkaku-ji",
+    "titulo": "Kioto · Kinkaku-ji, Ginkaku-ji y Yasaka",
     "eventos": [
-      {
-        "hora": "11:07",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 5.7 km · 26 min"
-      },
-      {
-        "hora": "12:43",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 6.7 km · 28 min"
-      },
-      {
-        "hora": "14:46",
-        "tipo": "transporte",
-        "descripcion": "Bus · 2.7 km · 11 min"
-      },
-      {
-        "hora": "16:00",
-        "tipo": "lugar",
-        "ref": "heian-jingu-zona-chijyyja-ee88",
-        "descripcion": "Heian Jingu zona"
-      },
-      {
-        "hora": "20:00",
-        "tipo": "restaurante",
-        "ref": "wagyu-sukiyaki-kyoto-chikaray-5ae7",
-        "descripcion": "Wagyu Sukiyaki Chikarayama"
-      },
-      {
-        "hora": "22:26",
-        "tipo": "lugar",
-        "ref": "rokkaku-dori-chij4aer-47e8",
-        "descripcion": "Rokkaku-dori"
-      },
-      {
-        "hora": "23:39",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Vuelta al hotel (Agora Kyoto Shijo)"
-      }
+      { "hora": "08:53", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Salida del hotel" },
+      { "hora": "09:07", "tipo": "transporte", "descripcion": "Autobús · 5,7 km · 27 min" },
+      { "hora": "09:45", "tipo": "lugar", "descripcion": "Pabellón Dorado (Kinkaku-ji)" },
+      { "hora": "10:15", "tipo": "transporte", "descripcion": "Autobús · conexiones hacia Ginkaku-ji · 7,9 km · 1h 35min" },
+      { "hora": "11:50", "tipo": "lugar", "descripcion": "Ginkaku-ji (Pabellón de Plata)" },
+      { "hora": "12:46", "tipo": "transporte", "descripcion": "Autobús · 2,7 km · 11 min" },
+      { "hora": "13:10", "tipo": "lugar", "descripcion": "Heian Jingū (Santuario Heian)" },
+      { "hora": "14:00", "tipo": "restaurante", "ref": "toyo-sushi-5ae6", "descripcion": "Toyo Sushi" },
+      { "hora": "14:45", "tipo": "restaurante", "descripcion": "六露 (Rokuro) - Cafetería" },
+      { "hora": "19:15", "tipo": "lugar", "descripcion": "Santuario Yasaka" },
+      { "hora": "20:26", "tipo": "lugar", "descripcion": "mina Kyoto · Kyoto LOFT / UNIQLO" },
+      { "hora": "21:50", "tipo": "restaurante", "descripcion": "酒場らいと - LIGHT - (Izakaya)" },
+      { "hora": "23:04", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-29",
-    "dia": 12,
+    "dia": 11,
     "ciudad": "Kioto",
-    "titulo": "Uji · Kimonos, Byōdō-in, ceremonia del te y Nintendo Museum",
+    "titulo": "Uji · Kimonos y Nintendo Museum",
     "eventos": [
-      {
-        "hora": "09:30",
-        "tipo": "transporte",
-        "descripcion": "Tren JR · Kioto → Uji"
-      },
-      {
-        "hora": "10:00",
-        "tipo": "lugar",
-        "descripcion": "Alquiler de kimonos (レンタル着物 舞 宇治駅前店)"
-      },
-      {
-        "hora": "11:00",
-        "tipo": "lugar",
-        "descripcion": "Byōdō-in (平等院)"
-      },
-      {
-        "hora": "12:45",
-        "tipo": "lugar",
-        "descripcion": "Ceremonia del te en Taiho-An (対鳳庵)"
-      },
-      {
-        "hora": "14:00",
-        "tipo": "lugar",
-        "descripcion": "Devolución kimonos (レンタル着物 舞)"
-      },
-      {
-        "hora": "14:30",
-        "tipo": "transporte",
-        "descripcion": "Tren Uji → Ogura (Nintendo Museum)"
-      },
-      {
-        "hora": "16:30",
-        "tipo": "lugar",
-        "ref": "nintendo-museum-4b3e",
-        "descripcion": "Nintendo Museum (entrada 16:30)"
-      },
-      {
-        "hora": "18:30",
-        "tipo": "transporte",
-        "descripcion": "Tren → Kioto centro"
-      },
-      {
-        "hora": "19:30",
-        "tipo": "restaurante",
-        "ref": "toyo-sushi-6a11",
-        "descripcion": "Toyo Sushi (cena en Kioto)"
-      },
-      {
-        "hora": "22:04",
-        "tipo": "lugar",
-        "descripcion": "Rokkaku-dori"
-      },
-      {
-        "hora": "23:12",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Vuelta al hotel (Agora Kyoto Shijo)"
-      }
+      { "hora": "08:44", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Salida del hotel" },
+      { "hora": "09:10", "tipo": "transporte", "descripcion": "Tren · Kioto → Uji · 15 km · 23 min" },
+      { "hora": "09:44", "tipo": "lugar", "descripcion": "Recorrido por Uji (Byōdō-in, ceremonia del té)" },
+      { "hora": "15:30", "tipo": "lugar", "descripcion": "レンタル着物 舞 (alquiler de kimonos)" },
+      { "hora": "16:03", "tipo": "lugar", "descripcion": "Nintendo Museum" },
+      { "hora": "19:30", "tipo": "transporte", "descripcion": "Tren · vuelta a Kioto · 14 km · 20 min" },
+      { "hora": "20:04", "tipo": "lugar", "descripcion": "mina Kyoto · UNIQLO / Kyoto LOFT" },
+      { "hora": "21:45", "tipo": "restaurante", "descripcion": "Yakiniku Daisuke" },
+      { "hora": "22:30", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-06-30",
-    "dia": 13,
+    "dia": 12,
     "ciudad": "Kioto",
     "titulo": "Nara (excursión) y Fushimi Inari",
     "eventos": [
-      {
-        "hora": "11:26",
-        "tipo": "transporte",
-        "descripcion": "Metro · 1.8 km · 5 min"
-      },
-      {
-        "hora": "11:36",
-        "tipo": "lugar",
-        "ref": "estacion-kioto-chij7wkl-1877",
-        "descripcion": "Estación Kioto"
-      },
-      {
-        "hora": "12:04",
-        "tipo": "transporte",
-        "descripcion": "Tren · 40.4 km · 47 min"
-      },
-      {
-        "hora": "15:30",
-        "tipo": "restaurante",
-        "ref": "mochizen-cd01",
-        "descripcion": "Mochizen (wagashi)"
-      },
-      {
-        "hora": "16:08",
-        "tipo": "lugar",
-        "ref": "nara-higashimuki-chijfwsx-86e1",
-        "descripcion": "Nara - Higashimuki"
-      },
-      {
-        "hora": "17:01",
-        "tipo": "lugar",
-        "ref": "nara-centro-chijd1jf-6166",
-        "descripcion": "Nara centro"
-      },
-      {
-        "hora": "17:07",
-        "tipo": "transporte",
-        "descripcion": "Tren · 36.9 km · 48 min"
-      },
-      {
-        "hora": "19:00",
-        "tipo": "lugar",
-        "ref": "fushimi-inari",
-        "descripcion": "Fushimi Inari Taisha"
-      },
-      {
-        "hora": "20:54",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.8 km · 7 min"
-      },
-      {
-        "hora": "23:42",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Vuelta al hotel (Agora Kyoto Shijo)"
-      }
+      { "hora": "09:02", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Salida del hotel" },
+      { "hora": "09:26", "tipo": "transporte", "descripcion": "Metro · 1,8 km · 5 min" },
+      { "hora": "10:04", "tipo": "transporte", "descripcion": "Tren · Kioto → Nara · 40 km · 48 min" },
+      { "hora": "11:30", "tipo": "lugar", "descripcion": "Parque de Nara (ciervos)" },
+      { "hora": "14:08", "tipo": "restaurante", "ref": "mochizen-87b5", "descripcion": "Mochizen (wagashi)" },
+      { "hora": "15:07", "tipo": "transporte", "descripcion": "Tren · Nara → Fushimi · 37 km · 48 min" },
+      { "hora": "16:10", "tipo": "lugar", "descripcion": "Fushimi Inari-taisha" },
+      { "hora": "18:54", "tipo": "transporte", "descripcion": "Tren · 3,8 km · 7 min" },
+      { "hora": "19:10", "tipo": "restaurante", "descripcion": "MIYAGAWA TONEMON" },
+      { "hora": "21:42", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-07-01",
-    "dia": 14,
+    "dia": 13,
     "ciudad": "Hiroshima",
-    "titulo": "Hiroshima · Ciudad y Parque de la Paz",
+    "titulo": "Viaje a Hiroshima · Parque de la Paz",
     "eventos": [
-      {
-        "hora": "11:00",
-        "tipo": "hotel",
-        "ref": "agora-kyoto-shijo-6fed",
-        "descripcion": "Check-out Agora Kyoto Shijo"
-      },
-      {
-        "hora": "11:57",
-        "tipo": "lugar",
-        "ref": "nishikimuromachi-dori-chij79bf-0c8b",
-        "descripcion": "Nishiki/Muromachi-dori"
-      },
-      {
-        "hora": "13:33",
-        "tipo": "transporte",
-        "descripcion": "Metro · 2.1 km · 9 min"
-      },
-      {
-        "hora": "14:15",
-        "tipo": "transporte",
-        "descripcion": "Tren · 38.6 km · 23 min"
-      },
-      {
-        "hora": "14:38",
-        "tipo": "lugar",
-        "ref": "西中島五丁目-chijsc4s-156a",
-        "descripcion": "Nishinakajima (Osaka)"
-      },
-      {
-        "hora": "15:02",
-        "tipo": "transporte",
-        "descripcion": "Shinkansen Nozomi · Kioto → Hiroshima · 1h 25m"
-      },
-      {
-        "hora": "16:27",
-        "tipo": "lugar",
-        "ref": "hiroshima-centro-chijt7xy-1b97",
-        "descripcion": "Hiroshima centro"
-      },
-      {
-        "hora": "17:00",
-        "tipo": "hotel",
-        "ref": "hotel-granvia-hiroshima-a509",
-        "descripcion": "Check-in Hotel Granvia Hiroshima"
-      },
-      {
-        "hora": "17:46",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 3.8 km · 18 min"
-      },
-      {
-        "hora": "20:30",
-        "tipo": "restaurante",
-        "ref": "okamotos-okonomiyaki-2bb3",
-        "descripcion": "OKAMOTO'S Okonomiyaki"
-      },
-      {
-        "hora": "21:15",
-        "tipo": "lugar",
-        "ref": "hiroshima-shintenchi-chijf19y-58ac",
-        "descripcion": "Hiroshima - Shintenchí"
-      },
-      {
-        "hora": "21:50",
-        "tipo": "lugar",
-        "ref": "hiroshima-hondori-chijvsxo-8deb",
-        "descripcion": "Hiroshima Hondori"
-      },
-      {
-        "hora": "23:06",
-        "tipo": "lugar",
-        "ref": "hiroshima-centro-chijw9h8-f7c8",
-        "descripcion": "Hiroshima centro"
-      },
-      {
-        "hora": "23:10",
-        "tipo": "lugar",
-        "ref": "hiroshima-centro-chijm8xv-a8ba",
-        "descripcion": "Hiroshima centro"
-      }
+      { "hora": "09:50", "tipo": "hotel", "ref": "agora-kyoto-shijo-6fed", "descripcion": "Check-out Agora Kyoto Shijo" },
+      { "hora": "09:57", "tipo": "lugar", "descripcion": "Pokémon Center Kyoto" },
+      { "hora": "11:33", "tipo": "transporte", "descripcion": "Metro · 2,1 km · 10 min" },
+      { "hora": "12:15", "tipo": "transporte", "descripcion": "Tren · Kioto → Shin-Osaka · 39 km · 23 min" },
+      { "hora": "13:02", "tipo": "transporte", "descripcion": "Shinkansen · Shin-Osaka → Hiroshima · 302 km · 1h 25min" },
+      { "hora": "14:27", "tipo": "hotel", "ref": "hotel-granvia-hiroshima-a509", "descripcion": "Hotel Granvia Hiroshima (dejar equipaje)" },
+      { "hora": "16:05", "tipo": "lugar", "descripcion": "Museo Memorial de la Paz de Hiroshima" },
+      { "hora": "18:30", "tipo": "lugar", "descripcion": "Monumento de la Paz de Hiroshima (Cúpula Genbaku)" },
+      { "hora": "19:15", "tipo": "lugar", "descripcion": "Hiroshima PARCO · Onitsuka Tiger" },
+      { "hora": "21:06", "tipo": "restaurante", "ref": "okamoto-s-okonomiyaki-7dda", "descripcion": "OKAMOTO'S OKONOMIYAKI" },
+      { "hora": "22:34", "tipo": "hotel", "ref": "hotel-granvia-hiroshima-a509", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-07-02",
-    "dia": 15,
-    "ciudad": "Hiroshima",
-    "titulo": "Miyajima · Isla del Torii flotante",
+    "dia": 14,
+    "ciudad": "Hiroshima / Osaka",
+    "titulo": "Miyajima · Torii flotante · Viaje a Osaka",
     "eventos": [
-      {
-        "hora": "00:11",
-        "tipo": "lugar",
-        "ref": "dotonbori-zona-chijsaot-8ea5",
-        "descripcion": "Dotonbori zona"
-      },
-      {
-        "hora": "01:23",
-        "tipo": "transporte",
-        "descripcion": "Metro · 3.6 km · 8 min"
-      },
-      {
-        "hora": "10:30",
-        "tipo": "hotel",
-        "ref": "hotel-granvia-hiroshima-a509",
-        "descripcion": "Check-out Hotel Granvia Hiroshima"
-      },
-      {
-        "hora": "11:45",
-        "tipo": "transporte",
-        "descripcion": "JR Sanyo Line · Hiroshima → Miyajimaguchi · 33 min"
-      },
-      {
-        "hora": "12:18",
-        "tipo": "lugar",
-        "ref": "puerto-miyajimaguchi-chijeyva-6c63",
-        "descripcion": "Puerto Miyajimaguchi"
-      },
-      {
-        "hora": "12:39",
-        "tipo": "transporte",
-        "descripcion": "JR Ferry · Miyajimaguchi → Miyajima · 10 min"
-      },
-      {
-        "hora": "12:49",
-        "tipo": "lugar",
-        "ref": "miyajimaguchi-station-e0a7",
-        "descripcion": "Miyajima (llegada)"
-      },
-      {
-        "hora": "16:31",
-        "tipo": "transporte",
-        "descripcion": "JR Ferry · Miyajima → Miyajimaguchi · 22 min"
-      },
-      {
-        "hora": "16:53",
-        "tipo": "lugar",
-        "ref": "miyajimaguchi-station-e0a7",
-        "descripcion": "Puerto Miyajimaguchi (vuelta)"
-      },
-      {
-        "hora": "17:38",
-        "tipo": "transporte",
-        "descripcion": "JR Sanyo Line · Miyajimaguchi → Hiroshima · 38 min"
-      },
-      {
-        "hora": "18:16",
-        "tipo": "lugar",
-        "ref": "hiroshima-centro-chijt7xy-1b97",
-        "descripcion": "Hiroshima centro"
-      },
-      {
-        "hora": "18:42",
-        "tipo": "transporte",
-        "descripcion": "Shinkansen Nozomi · Hiroshima → Osaka (Shin-Osaka) · 1h 24m"
-      },
-      {
-        "hora": "20:08",
-        "tipo": "lugar",
-        "ref": "nishikujo-station-3a4a",
-        "descripcion": "Osaka - Nishiñakajima"
-      },
-      {
-        "hora": "20:29",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.9 km · 3 min"
-      },
-      {
-        "hora": "21:00",
-        "tipo": "hotel",
-        "ref": "hotel-granvia-osaka-5432",
-        "descripcion": "Check-in Hotel Granvia Osaka"
-      },
-      {
-        "hora": "21:56",
-        "tipo": "transporte",
-        "descripcion": "Metro · 3.2 km · 6 min"
-      },
-      {
-        "hora": "22:18",
-        "tipo": "lugar",
-        "ref": "shinsaibashi-osaka-chij1qkl-6801",
-        "descripcion": "Shinsaibashi Osaka"
-      }
+      { "hora": "09:28", "tipo": "hotel", "ref": "hotel-granvia-hiroshima-a509", "descripcion": "Check-out Hotel Granvia Hiroshima" },
+      { "hora": "09:45", "tipo": "transporte", "descripcion": "Tren · Hiroshima → Miyajimaguchi · 21 km · 34 min" },
+      { "hora": "10:39", "tipo": "transporte", "descripcion": "Ferry · JR Miyajima Ferry · 4,1 km · 10 min" },
+      { "hora": "11:43", "tipo": "lugar", "descripcion": "Torii Flotante del Santuario Itsukushima" },
+      { "hora": "13:25", "tipo": "restaurante", "descripcion": "おにぎり屋三兎 (Onigiriya Santo)" },
+      { "hora": "14:00", "tipo": "lugar", "descripcion": "Daikonya (tienda / compras)" },
+      { "hora": "14:31", "tipo": "transporte", "descripcion": "Ferry · regreso · 2,6 km · 22 min" },
+      { "hora": "15:38", "tipo": "transporte", "descripcion": "Tren · Miyajimaguchi → Hiroshima · 19 km · 38 min" },
+      { "hora": "16:42", "tipo": "transporte", "descripcion": "Shinkansen · Hiroshima → Shin-Osaka · 291 km · 1h 24min" },
+      { "hora": "18:33", "tipo": "hotel", "ref": "hotel-granvia-osaka-5432", "descripcion": "Check-in Hotel Granvia Osaka" },
+      { "hora": "20:18", "tipo": "lugar", "descripcion": "Uniqlo Shinsaibashi" },
+      { "hora": "21:40", "tipo": "lugar", "descripcion": "Cartel Glico de Dotonbori" },
+      { "hora": "22:11", "tipo": "restaurante", "ref": "自分で焼けるたこ焼き居酒屋-takoyaki-lab-646d", "descripcion": "自分で焼けるたこ焼き居酒屋 TAKOYAKI LAB" },
+      { "hora": "23:32", "tipo": "hotel", "ref": "hotel-granvia-osaka-5432", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-07-03",
-    "dia": 16,
+    "dia": 15,
     "ciudad": "Osaka",
-    "titulo": "Osaka · Universal Studios Japan",
+    "titulo": "Universal Studios Japan",
     "eventos": [
-      {
-        "hora": "10:07",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.5 km · 5 min"
-      },
-      {
-        "hora": "10:13",
-        "tipo": "lugar",
-        "ref": "nishikujo-cerca-usj-chijl9e6-b5ec",
-        "descripcion": "Nishikujo (cerca USJ)"
-      },
-      {
-        "hora": "10:18",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.4 km · 8 min"
-      },
-      {
-        "hora": "10:29",
-        "tipo": "lugar",
-        "ref": "universal-studios-japan-zona-chijxelv-9e31",
-        "descripcion": "Universal Studios Japan zona"
-      },
-      {
-        "hora": "19:00",
-        "tipo": "restaurante",
-        "ref": "zi-fen-deshao-kerutakoshao-ki-79cc",
-        "descripcion": "TAKOYAKI LAB"
-      },
-      {
-        "hora": "21:00",
-        "tipo": "restaurante",
-        "ref": "ignite-kafedainingu-8b91",
-        "descripcion": "IGNITE カフェ&ダイニング"
-      },
-      {
-        "hora": "22:39",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.2 km · 4 min"
-      },
-      {
-        "hora": "22:54",
-        "tipo": "transporte",
-        "descripcion": "Tren · 3.3 km · 5 min"
-      }
+      { "hora": "08:07", "tipo": "hotel", "ref": "hotel-granvia-osaka-5432", "descripcion": "Salida del hotel" },
+      { "hora": "08:07", "tipo": "restaurante", "ref": "ignite-カフェ-ダイニング-af36", "descripcion": "IGNITE カフェ&ダイニング (desayuno)" },
+      { "hora": "08:18", "tipo": "transporte", "descripcion": "Tren · Osaka → Universal City · 6,9 km · 15 min" },
+      { "hora": "08:29", "tipo": "lugar", "descripcion": "Universal Studios Japan" },
+      { "hora": "20:39", "tipo": "transporte", "descripcion": "Tren · Universal City → Osaka · 6,5 km · 11 min" },
+      { "hora": "21:02", "tipo": "restaurante", "descripcion": "Ginza Kagari Lucua Osaka (ramen)" },
+      { "hora": "22:09", "tipo": "hotel", "ref": "hotel-granvia-osaka-5432", "descripcion": "Vuelta al hotel" }
     ]
   },
   {
     "fecha": "2026-07-04",
-    "dia": 17,
+    "dia": 16,
     "ciudad": "Osaka",
-    "titulo": "Osaka · Dotonbori y vuelo a Barcelona",
+    "titulo": "Osaka · Castillo, Dotonbori y Aeropuerto",
     "eventos": [
-      {
-        "hora": "13:54",
-        "tipo": "transporte",
-        "descripcion": "Metro · 2.3 km · 3 min"
-      },
-      {
-        "hora": "14:43",
-        "tipo": "transporte",
-        "descripcion": "Metro · 3.0 km · 8 min"
-      },
-      {
-        "hora": "15:00",
-        "tipo": "lugar",
-        "ref": "dotonbori-chijnd8a-4189",
-        "descripcion": "Dotonbori"
-      },
-      {
-        "hora": "15:15",
-        "tipo": "lugar",
-        "ref": "tombori-riverwalk-chijztcp-4909",
-        "descripcion": "Tombori Riverwalk"
-      },
-      {
-        "hora": "16:26",
-        "tipo": "transporte",
-        "descripcion": "Metro · 3.3 km · 6 min"
-      },
-      {
-        "hora": "17:41",
-        "tipo": "transporte",
-        "descripcion": "Bus · 50.7 km · 74 min"
-      },
-      {
-        "hora": "19:08",
-        "tipo": "lugar",
-        "ref": "泉州空港中-chij9-rn-8f25",
-        "descripcion": "泉州空港中"
-      },
-      {
-        "hora": "20:11",
-        "tipo": "lugar",
-        "ref": "chijn77x-3ffb",
-        "descripcion": "Aeropuerto Kansai (KIX)"
-      },
-      {
-        "hora": "20:26",
-        "tipo": "transporte",
-        "descripcion": "Avión · 1.2 km · 1199 min"
-      }
-    ]
-  },
-  {
-    "fecha": "2026-07-05",
-    "dia": 18,
-    "ciudad": "Barcelona",
-    "titulo": "Vuelo Osaka → Barcelona",
-    "eventos": [
-      {
-        "hora": "09:00",
-        "tipo": "hotel",
-        "ref": "hotel-granvia-osaka-5432",
-        "descripcion": "Check-out Hotel Granvia Osaka"
-      },
-      {
-        "hora": "17:10",
-        "tipo": "transporte",
-        "descripcion": "Taxi/Autobús · 22.7 km · 22 min"
-      }
+      { "hora": "09:54", "tipo": "hotel", "ref": "hotel-granvia-osaka-5432", "descripcion": "Check-out Hotel Granvia Osaka" },
+      { "hora": "10:15", "tipo": "restaurante", "descripcion": "belle-ville pancake cafe" },
+      { "hora": "11:50", "tipo": "lugar", "descripcion": "Castillo de Osaka" },
+      { "hora": "13:00", "tipo": "lugar", "descripcion": "Souemon-cho · Giant Ferris Wheel Ebisu Tower" },
+      { "hora": "14:07", "tipo": "lugar", "descripcion": "Pokemon Center Osaka DX" },
+      { "hora": "15:41", "tipo": "transporte", "descripcion": "Autobús · Osaka → Aeropuerto Kansai · 51 km · 1h 15min" },
+      { "hora": "17:08", "tipo": "lugar", "descripcion": "Aeropuerto Internacional de Kansai (salida)" }
     ]
   }
 ]

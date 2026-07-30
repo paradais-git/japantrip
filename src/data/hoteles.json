@@ -3,13 +3,13 @@
     "id": "shinjuku-granbell-hotel-4366",
     "nombre": "Shinjuku Granbell Hotel",
     "ciudad": "Tokio",
-    "checkIn": "2026-06-18",
+    "checkIn": "2026-06-19",
     "checkOut": "2026-06-25",
     "lat": 35.68955,
     "lng": 139.69682,
     "googleMapsUrl": "https://www.google.com/maps/place/Shinjuku+Granbell+Hotel/data=!4m2!3m1!1s0x60188cd8dc89b75f:0xdf00a4957d8a0cfd",
     "fotos": [],
-    "notas": "Hotel de diseño en Shinjuku-sanchome. 7 noches."
+    "notas": "Hotel de diseño en Shinjuku-sanchome. 6 noches (19-25 jun)."
   },
   {
     "id": "kasuitei-ooya-2e96",
@@ -57,6 +57,6 @@
     "lng": 135.76365,
     "googleMapsUrl": "https://www.google.com/maps/place/Agora+Kyoto+Shijo/data=!4m2!3m1!1s0x600109837aefba8b:0x10e3d806356bebaf",
     "fotos": [],
-    "notas": "Hotel céntrico en Shijo, a pasos de Karasuma. 5 noches."
+    "notas": "Hotel céntrico en Shijo, a pasos de Karasuma. 5 noches (26 jun - 1 jul)."
   }
 ]
