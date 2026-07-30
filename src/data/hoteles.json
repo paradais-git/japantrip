@@ -1,0 +1,62 @@
+[
+  {
+    "id": "shinjuku-granbell-hotel-4366",
+    "nombre": "Shinjuku Granbell Hotel",
+    "ciudad": "Tokio",
+    "checkIn": "2026-06-19",
+    "checkOut": "2026-06-25",
+    "lat": 35.68955,
+    "lng": 139.69682,
+    "googleMapsUrl": "https://www.google.com/maps/place/Shinjuku+Granbell+Hotel/data=!4m2!3m1!1s0x60188cd8dc89b75f:0xdf00a4957d8a0cfd",
+    "fotos": [],
+    "notas": "Hotel de diseño en Shinjuku-sanchome. 6 noches (19-25 jun)."
+  },
+  {
+    "id": "kasuitei-ooya-2e96",
+    "nombre": "Kasuitei Ooya",
+    "ciudad": "Fujikawaguchiko",
+    "checkIn": "2026-06-25",
+    "checkOut": "2026-06-26",
+    "lat": 35.50982,
+    "lng": 138.75848,
+    "googleMapsUrl": "https://www.google.com/maps/place/Kasuitei+Ooya/data=!4m2!3m1!1s0x60195e28ae114d09:0x5d59dedb72546cb2",
+    "fotos": [],
+    "notas": "Ryokan tradicional frente al lago Kawaguchi. Onsen y cena kaiseki."
+  },
+  {
+    "id": "hotel-granvia-osaka-5432",
+    "nombre": "Hotel Granvia Osaka",
+    "ciudad": "Osaka",
+    "checkIn": "2026-07-02",
+    "checkOut": "2026-07-05",
+    "lat": 34.70194,
+    "lng": 135.49594,
+    "googleMapsUrl": "https://www.google.com/maps/place/Hotel+Granvia+Osaka/data=!4m2!3m1!1s0x6000e68d76465acb:0x5e6e773bc220b48d",
+    "fotos": [],
+    "notas": "Hotel sobre la estación de Osaka. 3 noches."
+  },
+  {
+    "id": "hotel-granvia-hiroshima-a509",
+    "nombre": "Hotel Granvia Hiroshima",
+    "ciudad": "Hiroshima",
+    "checkIn": "2026-07-01",
+    "checkOut": "2026-07-02",
+    "lat": 34.39851,
+    "lng": 132.47524,
+    "googleMapsUrl": "https://www.google.com/maps/place/Hotel+Granvia+Hiroshima/data=!4m2!3m1!1s0x355aed5fd4d8b5b7:0x1e092189a6415977",
+    "fotos": [],
+    "notas": "Hotel directamente conectado a la estación de Hiroshima. 1 noche."
+  },
+  {
+    "id": "agora-kyoto-shijo-6fed",
+    "nombre": "Agora Kyoto Shijo",
+    "ciudad": "Kioto",
+    "checkIn": "2026-06-26",
+    "checkOut": "2026-07-01",
+    "lat": 35.00378,
+    "lng": 135.76365,
+    "googleMapsUrl": "https://www.google.com/maps/place/Agora+Kyoto+Shijo/data=!4m2!3m1!1s0x600109837aefba8b:0x10e3d806356bebaf",
+    "fotos": [],
+    "notas": "Hotel céntrico en Shijo, a pasos de Karasuma. 5 noches (26 jun - 1 jul)."
+  }
+]
