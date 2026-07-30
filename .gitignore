@@ -26,3 +26,4 @@ Takeout/
 scripts/preview-*.json
 scripts/cronologia-extracted.json
 scripts/timeline-extracted.json
+.vercel
